@@ -1,0 +1,4 @@
+﻿  pch.cpp
+C:\Users\Nathan Roulland\source\repos\Prosit 3\Prosit 3\CLparcours.h(8,8): error C2143: erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Nathan Roulland\source\repos\Prosit 3\Prosit 3\CLparcours.h(8,8): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Nathan Roulland\source\repos\Prosit 3\Prosit 3\CLparcours.h(8,25): error C2238: jetons inattendus avant ';'

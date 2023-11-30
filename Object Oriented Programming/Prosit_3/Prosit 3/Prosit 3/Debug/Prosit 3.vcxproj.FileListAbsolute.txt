@@ -1,0 +1,2 @@
+C:\Users\Nathan Roulland\source\repos\Prosit 3\Prosit 3\Debug\Prosit 3.vcxproj.AssemblyReference.cache
+C:\Users\ryder\source\repos\Prosit_3\Prosit 3\Prosit 3\Debug\Prosit 3.vcxproj.AssemblyReference.cache

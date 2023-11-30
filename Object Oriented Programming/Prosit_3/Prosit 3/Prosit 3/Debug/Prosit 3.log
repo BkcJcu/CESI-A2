@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CLparcours.cpp
+C:\Users\ryder\source\repos\Prosit_3\Prosit 3\Prosit 3\CLparcours.cpp(14,26): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\ryder\source\repos\Prosit_3\Prosit 3\Prosit 3\CLparcours.cpp(32,26): warning C4018: '<' : incompatibilité signed/unsigned
+  CLpoint.cpp
+  Prosit 3.cpp
+  Génération de code en cours...
+  AssemblyInfo.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+  Prosit 3.vcxproj -> C:\Users\ryder\source\repos\Prosit_3\Prosit 3\Debug\Prosit 3.exe

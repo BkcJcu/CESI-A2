@@ -1,0 +1,6 @@
+C:\Users\Robin Zuili\source\repos\Prosit_5_POO\Prosit_5_POO\x64\Debug\Prosit_5_POO.vcxproj.AssemblyReference.cache
+C:\Users\Robin Zuili\source\repos\Prosit_5_POO\Prosit_5_POO\x64\Debug\Prosit5POO.MyForm.resources
+C:\Users\Robin Zuili\source\repos\Prosit_5_POO\Prosit_5_POO\x64\Debug\Prosit_5_POO.vcxproj.GenerateResource.cache
+C:\Users\ryder\Downloads\Prosit_5_POO\Prosit_5_POO\Prosit_5_POO\x64\Debug\Prosit_5_POO.vcxproj.AssemblyReference.cache
+C:\Users\ryder\Downloads\Prosit_5_POO\Prosit_5_POO\Prosit_5_POO\x64\Debug\Prosit5POO.MyForm.resources
+C:\Users\ryder\Downloads\Prosit_5_POO\Prosit_5_POO\Prosit_5_POO\x64\Debug\Prosit_5_POO.vcxproj.GenerateResource.cache
